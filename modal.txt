@@ -4,4 +4,4 @@ def modal():
 	c=a%b
 	print(c)
 if __name__ == '__main__':
-	üsalma()
+	modal()
