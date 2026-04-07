@@ -1,4 +1,4 @@
-def modalımı():
+def modal():
 	a=int(input("bir sayı giriniz:"))
 	b=int(input("bir sayı giriniz:"))
 	c=a%b
